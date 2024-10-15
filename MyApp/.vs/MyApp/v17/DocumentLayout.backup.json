@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nikhru\\Desktop\\c#\\MyApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C3C6E775-A566-45D5-80E9-74497B156828}|MyApp\\MyApp.csproj|c:\\users\\nikhru\\desktop\\c#\\myapp\\myapp\\controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3C6E775-A566-45D5-80E9-74497B156828}|MyApp\\MyApp.csproj|solutionrelative:myapp\\controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3C6E775-A566-45D5-80E9-74497B156828}|MyApp\\MyApp.csproj|c:\\users\\nikhru\\desktop\\c#\\myapp\\myapp\\views\\items\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C3C6E775-A566-45D5-80E9-74497B156828}|MyApp\\MyApp.csproj|solutionrelative:myapp\\views\\items\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3C6E775-A566-45D5-80E9-74497B156828}|MyApp\\MyApp.csproj|c:\\users\\nikhru\\desktop\\c#\\myapp\\myapp\\views\\items\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C3C6E775-A566-45D5-80E9-74497B156828}|MyApp\\MyApp.csproj|solutionrelative:myapp\\views\\items\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3C6E775-A566-45D5-80E9-74497B156828}|MyApp\\MyApp.csproj|c:\\users\\nikhru\\desktop\\c#\\myapp\\myapp\\migrations\\20241014190929_second migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3C6E775-A566-45D5-80E9-74497B156828}|MyApp\\MyApp.csproj|solutionrelative:myapp\\migrations\\20241014190929_second migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3C6E775-A566-45D5-80E9-74497B156828}|MyApp\\MyApp.csproj|c:\\users\\nikhru\\desktop\\c#\\myapp\\myapp\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3C6E775-A566-45D5-80E9-74497B156828}|MyApp\\MyApp.csproj|solutionrelative:myapp\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3C6E775-A566-45D5-80E9-74497B156828}|MyApp\\MyApp.csproj|c:\\users\\nikhru\\desktop\\c#\\myapp\\myapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3C6E775-A566-45D5-80E9-74497B156828}|MyApp\\MyApp.csproj|solutionrelative:myapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3C6E775-A566-45D5-80E9-74497B156828}|MyApp\\MyApp.csproj|c:\\users\\nikhru\\desktop\\c#\\myapp\\myapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C3C6E775-A566-45D5-80E9-74497B156828}|MyApp\\MyApp.csproj|solutionrelative:myapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3C6E775-A566-45D5-80E9-74497B156828}|MyApp\\MyApp.csproj|c:\\users\\nikhru\\desktop\\c#\\myapp\\myapp\\data\\myappcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3C6E775-A566-45D5-80E9-74497B156828}|MyApp\\MyApp.csproj|solutionrelative:myapp\\data\\myappcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3C6E775-A566-45D5-80E9-74497B156828}|MyApp\\MyApp.csproj|c:\\users\\nikhru\\desktop\\c#\\myapp\\myapp\\myapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C3C6E775-A566-45D5-80E9-74497B156828}|MyApp\\MyApp.csproj|solutionrelative:myapp\\myapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3C6E775-A566-45D5-80E9-74497B156828}|MyApp\\MyApp.csproj|c:\\users\\nikhru\\desktop\\c#\\myapp\\myapp\\views\\items\\overview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C3C6E775-A566-45D5-80E9-74497B156828}|MyApp\\MyApp.csproj|solutionrelative:myapp\\views\\items\\overview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3C6E775-A566-45D5-80E9-74497B156828}|MyApp\\MyApp.csproj|c:\\users\\nikhru\\desktop\\c#\\myapp\\myapp\\migrations\\20241014185440_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3C6E775-A566-45D5-80E9-74497B156828}|MyApp\\MyApp.csproj|solutionrelative:myapp\\migrations\\20241014185440_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nikhru\\Desktop\\c#\\MyApp\\MyApp\\Views\\Items\\Create.cshtml",
+              "RelativeDocumentMoniker": "MyApp\\Views\\Items\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Nikhru\\Desktop\\c#\\MyApp\\MyApp\\Views\\Items\\Create.cshtml",
+              "RelativeToolTip": "MyApp\\Views\\Items\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T07:47:56.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20241014190929_second migration.cs",
+              "DocumentMoniker": "C:\\Users\\Nikhru\\Desktop\\c#\\MyApp\\MyApp\\Migrations\\20241014190929_second migration.cs",
+              "RelativeDocumentMoniker": "MyApp\\Migrations\\20241014190929_second migration.cs",
+              "ToolTip": "C:\\Users\\Nikhru\\Desktop\\c#\\MyApp\\MyApp\\Migrations\\20241014190929_second migration.cs",
+              "RelativeToolTip": "MyApp\\Migrations\\20241014190929_second migration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T19:09:30.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Nikhru\\Desktop\\c#\\MyApp\\MyApp\\appsettings.json",
+              "RelativeDocumentMoniker": "MyApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\Nikhru\\Desktop\\c#\\MyApp\\MyApp\\appsettings.json",
+              "RelativeToolTip": "MyApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-14T18:46:49.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MyAppContext.cs",
+              "DocumentMoniker": "C:\\Users\\Nikhru\\Desktop\\c#\\MyApp\\MyApp\\Data\\MyAppContext.cs",
+              "RelativeDocumentMoniker": "MyApp\\Data\\MyAppContext.cs",
+              "ToolTip": "C:\\Users\\Nikhru\\Desktop\\c#\\MyApp\\MyApp\\Data\\MyAppContext.cs",
+              "RelativeToolTip": "MyApp\\Data\\MyAppContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T15:12:56.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ItemsController.cs",
+              "DocumentMoniker": "C:\\Users\\Nikhru\\Desktop\\c#\\MyApp\\MyApp\\Controllers\\ItemsController.cs",
+              "RelativeDocumentMoniker": "MyApp\\Controllers\\ItemsController.cs",
+              "ToolTip": "C:\\Users\\Nikhru\\Desktop\\c#\\MyApp\\MyApp\\Controllers\\ItemsController.cs",
+              "RelativeToolTip": "MyApp\\Controllers\\ItemsController.cs",
+              "ViewState": "AgIAABgAAACAmZmZmZkBwCMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T14:45:09.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nikhru\\Desktop\\c#\\MyApp\\MyApp\\Views\\Items\\Index.cshtml",
+              "RelativeDocumentMoniker": "MyApp\\Views\\Items\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Nikhru\\Desktop\\c#\\MyApp\\MyApp\\Views\\Items\\Index.cshtml",
+              "RelativeToolTip": "MyApp\\Views\\Items\\Index.cshtml",
+              "ViewState": "AgIAAA4AAABAMzMzMzMbwBMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T07:26:07.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nikhru\\Desktop\\c#\\MyApp\\MyApp\\Program.cs",
+              "RelativeDocumentMoniker": "MyApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Nikhru\\Desktop\\c#\\MyApp\\MyApp\\Program.cs",
+              "RelativeToolTip": "MyApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T18:48:01.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20241014185440_Initial Migration.cs",
+              "DocumentMoniker": "C:\\Users\\Nikhru\\Desktop\\c#\\MyApp\\MyApp\\Migrations\\20241014185440_Initial Migration.cs",
+              "RelativeDocumentMoniker": "MyApp\\Migrations\\20241014185440_Initial Migration.cs",
+              "ToolTip": "C:\\Users\\Nikhru\\Desktop\\c#\\MyApp\\MyApp\\Migrations\\20241014185440_Initial Migration.cs",
+              "RelativeToolTip": "MyApp\\Migrations\\20241014185440_Initial Migration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T18:54:41.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MyApp.csproj",
+              "DocumentMoniker": "C:\\Users\\Nikhru\\Desktop\\c#\\MyApp\\MyApp\\MyApp.csproj",
+              "RelativeDocumentMoniker": "MyApp\\MyApp.csproj",
+              "ToolTip": "C:\\Users\\Nikhru\\Desktop\\c#\\MyApp\\MyApp\\MyApp.csproj",
+              "RelativeToolTip": "MyApp\\MyApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-14T15:12:12.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\Nikhru\\Desktop\\c#\\MyApp\\MyApp\\Models\\Item.cs",
+              "RelativeDocumentMoniker": "MyApp\\Models\\Item.cs",
+              "ToolTip": "C:\\Users\\Nikhru\\Desktop\\c#\\MyApp\\MyApp\\Models\\Item.cs",
+              "RelativeToolTip": "MyApp\\Models\\Item.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T14:25:39.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Overview.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nikhru\\Desktop\\c#\\MyApp\\MyApp\\Views\\Items\\Overview.cshtml",
+              "RelativeDocumentMoniker": "MyApp\\Views\\Items\\Overview.cshtml",
+              "ToolTip": "C:\\Users\\Nikhru\\Desktop\\c#\\MyApp\\MyApp\\Views\\Items\\Overview.cshtml",
+              "RelativeToolTip": "MyApp\\Views\\Items\\Overview.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-14T14:30:32.479Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
